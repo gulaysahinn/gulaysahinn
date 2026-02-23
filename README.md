@@ -1,39 +1,48 @@
-<!-- Level 3: Add custom code -->
+# 👋 Merhaba, Ben Gülay Şahin!
 
-# 👋 Hi, I'm Gülay Şahin!
-👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 I am studying Computer Engineering at Balıkesir University<br/>
-🎨 To develop myself in the field of software<br/>
-💭 Currently developing myself in the field of mobile programming!<br/>
+<p align="left">
+ <a href="https://linkedin.com/in/gulaysahinn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+ <a href="https://instagram.com/_sahingulay"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+ <a href="https://discord.gg/codeandlife"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codeandlife) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahingulay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulaysahinn) 
+### 👩🏻‍💻 Hakkımda
+Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazılım dünyasında özellikle mobil programlama ve yapay zeka entegrasyonları üzerine projeler üretiyorum. Teknolojiyi sadece kullanmayı değil, onunla çözüm üretmeyi seviyorum.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gulaysahinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulaysahinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gulaysahinn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🔭 **Şu an ne üzerine çalışıyorum:** Yapay zeka destekli sunum koçu **PitchMate** (TÜBİTAK 2209-A) ve Flutter ile bir **Pixel Art Mobil Oyun**.
+* 🌱 **Neler öğreniyorum:** Makine Öğrenmesi (ML) algoritmaları ve ileri düzey Flutter mimarileri.
+* 💬 **Bana ne hakkında soru sorabilirsin:** React, Flutter, Dart ve Oracle veritabanı yönetimi.
+* ⚡ **Motto:** Kodun temiz, mantığın sağlam olsun.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gulaysahinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**gulaysahinn/gulaysahinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Teknik Yetenekler
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Öne Çıkan Projeler
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **PitchMate** | Kullanıcıların sunum becerilerini geliştiren AI destekli koç. | Next.js, AI API's |
+| **Pixel Art Game** | Retro tarzda, mobil platformlar için geliştirilen eğlenceli bir oyun. | Flutter, Dart |
+| **Portfolio** | Kişisel projelerimi ve blog yazılarımı sergilediğim web sitem. | React, Vite |
+
+---
+
+### 📊 İstatistikler
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulaysahinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulaysahinn&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=tokyonight" />
+</p>
