@@ -9,7 +9,7 @@
 ### 👩🏻‍💻 Hakkımda
 Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazılım dünyasında özellikle mobil programlama ve yapay zeka entegrasyonları üzerine projeler üretiyorum. Teknolojiyi sadece kullanmayı değil, onunla çözüm üretmeyi seviyorum.
 
-* 🔭 **Şu an ne üzerine çalışıyorum:** Yapay zeka destekli sunum koçu **PitchMate** (TÜBİTAK 2209-A) ve Flutter ile bir **Pixel Art Mobil Oyun**.
+* 🔭 **Şu an ne üzerine çalışıyorum:** Yapay zeka destekli sunum koçu **Resonix.AI** (TÜBİTAK 2209-A) ve Flutter ile bir **Pixel Art Mobil Oyun**.
 * 🌱 **Neler öğreniyorum:** Makine Öğrenmesi (ML) algoritmaları ve ileri düzey Flutter mimarileri.
 * 💬 **Bana ne hakkında soru sorabilirsin:** React, Flutter, Dart ve Oracle veritabanı yönetimi.
 * ⚡ **Motto:** Kodun temiz, mantığın sağlam olsun.
@@ -39,8 +39,12 @@ Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazı
 
 ### 📊 İstatistikler
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulaysahinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulaysahinn&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gulaysahinn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulaysahinn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="93%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
