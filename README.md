@@ -38,6 +38,13 @@ Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazı
 ---
 
 ### 📊 İstatistikler
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/python-snake-game?username=gulaysahinn" alt="snake game" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulaysahinn&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img width="93%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=tokyonight&hide_border=true" />
