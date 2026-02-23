@@ -46,7 +46,3 @@ Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazı
 <p align="center">
   <img width="93%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulaysahinn&theme=tokyonight" />
-</p>
