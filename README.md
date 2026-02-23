@@ -75,12 +75,6 @@ Balıkesir Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazı
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulaysahinn&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6347&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 <!-- Top Contributed Repo -->
 ## 🔝 Top Contributed Repositories
