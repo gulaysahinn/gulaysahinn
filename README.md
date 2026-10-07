@@ -111,10 +111,6 @@ const gulay = {
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulaysahinn&bg_color=0d1117&color=8B7CFF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-<br/><br/>
-
 <img width="95%" src="https://raw.githubusercontent.com/gulaysahinn/gulaysahinn/output/github-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
