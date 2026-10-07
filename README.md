@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=G%C3%BClay%20%C5%9Eahin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20React%20%26%20Vite%20%7C%20Flutter&descSize=18&descAlignY=60" alt="Gülay Şahin" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=G%C3%BClay%20%C5%9Eahin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20-%20React%20and%20Vite%20-%20Flutter&descSize=18&descAlignY=60" alt="Gülay Şahin" />
 
 <a href="https://github.com/gulaysahinn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B7CFF&center=true&vCenter=true&width=640&height=45&lines=Bilgisayar+M%C3%BChendisi;React+%26+Vite+ile+Modern+Web+Uygulamalar%C4%B1;Flutter+ile+%C3%87apraz+Platform+Mobil+Uygulamalar;Yapay+Zeka+Destekli+%C3%9Cr%C3%BCnler+Geli%C5%9Ftiriyorum" alt="Typing SVG" />
