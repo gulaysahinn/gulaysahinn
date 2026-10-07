@@ -50,14 +50,13 @@ const gulay = {
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/AI-8B7CFF?style=flat-square" /><br/><br/>
-      <a href="https://github.com/gulaysahinn/REPO-ADI">Repo →</a>
+      <a href="https://github.com/gulaysahinn/resonix_ai">Repo →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🎮 Pixel Art Mobil Oyun</h3>
-      Flutter ile geliştirdiğim pixel art tarzında mobil oyun. <i>(Geliştirme aşamasında)</i><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br/><br/>
-      <a href="https://github.com/gulaysahinn/REPO-ADI">Repo →</a>
+      <h3>🔐 AI PassVault</h3>
+      Şifre oluşturma ve depolama uygulaması.<br/><br/>
+      <img src="https://img.shields.io/badge/AI-8B7CFF?style=flat-square" /><br/><br/>
+      <a href="https://github.com/gulaysahinn/ai_PassVault">Repo →</a>
     </td>
     <td width="33%" valign="top">
       <h3>💼 Freelance Web Projeleri</h3>
@@ -65,7 +64,8 @@ const gulay = {
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/><br/>
-      <a href="https://PROJE-LINKI">Canlı demo →</a>
+      <a href="https://github.com/gulaysahinn/gozdeinsaat">Gözde İnşaat →</a><br/>
+      <a href="https://github.com/gulaysahinn/netGelir">NetGelir →</a>
     </td>
   </tr>
 </table>
